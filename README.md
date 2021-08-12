@@ -22,12 +22,15 @@ A Machine Learning & Deep Learning enthusiast and active practitioner, having a 
 #### Deployment Platforms:
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
 
 #### Others:
 [![C](https://img.shields.io/badge/-C-808080?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
 ![C++](https://img.shields.io/badge/-C++-9c9c9c?&logo=c%2b%2b&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=mayureshagashe2105&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" /><!-- wi*quL3fcV -->
 <img height="90.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayureshagashe2105&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
