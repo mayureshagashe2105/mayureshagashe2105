@@ -7,7 +7,7 @@
 ### About Me:
 - [x] **Certified TensorFlow Developer**🤩
 
-<img src="https://github.com/mayureshagashe2105/mayureshagashe2105/blob/main/Certified%20TensorFlow%20Developer%20Badge.png" align="center"/>
+<img src="https://github.com/mayureshagashe2105/mayureshagashe2105/blob/main/Certified%20TensorFlow%20Developer%20Badge.png" align="center" height="250px" width="250px"/>
 
 A Machine Learning & Deep Learning enthusiast and active practitioner, having a decent experience with Computer vision. I am currently pursuing B.Tech. in Computer Science Engineering with specialization in Artificial Intelligence and Machine Learning, from Vellore Institute of Technology. I love participating in hacks and building creative solutions for daily-life problems, through my ML skillset to help the community.
 > __"Data will talk to you, if you are willing to listen."__
