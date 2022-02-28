@@ -44,3 +44,7 @@ A Machine Learning & Deep Learning enthusiast and active practitioner, well vers
 
 - ⚡ Fun fact: __You are visiting my profile, Visitor.__ LOL 😂
 
+### Check out my Streamit Apps
+* [Noise Suppressor Web App](https://share.streamlit.io/mayureshagashe2105/reva-hack-live-noise-suppression/main/app.py)
+* [Nifty-50 Predictor Web App](https://share.streamlit.io/mayureshagashe2105/python-week-hackathon-nifty50-predictor-ml/main/Nifty-50_Predictor.py)
+* [Cassava Leaf Disease Classificaion](https://share.streamlit.io/mayureshagashe2105/cassava-gdsc-streamlit-deploy/main/app.py)
